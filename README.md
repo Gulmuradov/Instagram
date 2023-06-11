@@ -39,5 +39,6 @@ Start the server
   npm run start
 ```
 
+## Images
 <img align="center" alt="image" src="./instagram-clone/instagram_img/img_1.png">
 <img align="center" alt="image" src="./instagram-clone/instagram_img/img_2.png">
